@@ -1,0 +1,28 @@
+{
+    "name": "expressjs",
+    "version": "1.0.0",
+    "description": "Learning basics of Express.js",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js",
+        "dev": "nodemon index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Blazusiak/Expressjs.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Blazusiak/Expressjs/issues"
+    },
+    "homepage": "https://github.com/Blazusiak/Expressjs#readme",
+    "dependencies": {
+        "express": "^4.17.1",
+        "moment": "^2.24.0",
+        "uuid": "^3.4.0"
+    },
+    "devDependencies": {
+        "nodemon": "^2.0.2"
+    }
+}
